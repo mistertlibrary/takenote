@@ -1,0 +1,59 @@
+{
+  "lyceum": 1,
+  "title": "Take Note!",
+  "description": "Six notetaking methods, strategies for active listening, and a matching exercise that pairs common notetaking problems with suitable methods. Printable templates for every method.",
+  "url": "https://mistertlibrary.github.io/takenote/",
+  "series": "",
+  "course": "",
+  "subjects": [
+    "Basic Information and General Reference",
+    "College and Career"
+  ],
+  "sections": [
+    {
+      "title": "Learning Objective",
+      "anchor": "#objective",
+      "keywords": [
+        "notetaking",
+        "note-taking",
+        "notes",
+        "Do Now"
+      ]
+    },
+    {
+      "title": "Common Problems",
+      "anchor": "#problems",
+      "keywords": [
+        "distractions",
+        "attention span",
+        "fast lecture",
+        "handwriting",
+        "video notes"
+      ]
+    },
+    {
+      "title": "Active Listening",
+      "anchor": "#listening",
+      "keywords": [
+        "active listening",
+        "paraphrase",
+        "ask questions",
+        "review notes"
+      ]
+    },
+    {
+      "title": "Common Methods",
+      "anchor": "#methods",
+      "keywords": [
+        "Cornell notes",
+        "outline",
+        "mind map",
+        "concept map",
+        "chart",
+        "sentence method",
+        "sketchnotes",
+        "printable templates"
+      ]
+    }
+  ]
+}
